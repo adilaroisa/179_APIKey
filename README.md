@@ -7,3 +7,6 @@
 
 3. PostMan Tidak Valid
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9a18b1fb-7cb1-4103-bdaf-68aaf32ef73c" />
+
+4. Database
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37216bae-c9ac-45ec-81c1-33927beba0f7" />
